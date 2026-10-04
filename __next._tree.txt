@@ -1,0 +1,2 @@
+:HL["/365-hard-site/_next/static/chunks/ff4b105fd8c4f5e1.css","style"]
+0:{"buildId":"EBfUbWDSU-8h8EEm_ww9j","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
